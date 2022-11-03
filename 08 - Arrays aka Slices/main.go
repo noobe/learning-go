@@ -22,4 +22,23 @@ func main() {
 	for i := 0; i < len(strSlice); i++ {
 		fmt.Println(strSlice[i])
 	}
+
+	fmt.Println("Using range and only index:")
+	for i := range numSlice {
+		fmt.Println(i, numSlice[i])
+	}
+
+	fmt.Println("Using range and index & value:")
+	for i, name := range strSlice {
+		fmt.Println(i, name)
+	}
+
+	fmt.Println("Using range and only value:")
+	for _, name := range numSlice {
+		fmt.Println(name)
+	}
+
+	fmt.Println("Appending to slice:")
+	newStrSlice := append(strSlice, "Test")
+	fmt.Println(strSlice, newStrSlice)
 }
