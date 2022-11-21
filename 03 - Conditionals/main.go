@@ -19,7 +19,6 @@ func main() {
 		fmt.Println("X is between 5 and 10")
 	} else {
 		fmt.Println("X is not between 5 and 10")
-
 	}
 
 	if x < 5 || x > 10 {
