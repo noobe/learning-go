@@ -1,4 +1,4 @@
-# 02. Calculate Mean/Avg of 2 numbers.
+# 02. Variables and types.
 
 ## Go supports 2 ways to use variables:
 - Declare variable and then assign a valid values
