@@ -77,8 +77,15 @@ Additional help topics:
 Use "go help <topic>" for more information about that topic.
 
 ## Topics covered:
-01. Hello World
-02. Variables and assignments
-03. Conditionals
-04. Looping
+01. [Hello World](./01%20-%20Hello%20World)
+02. [Variables and assignments](./02%20-%20Variables%20and%20assignments)
+03. [Conditionals](./03%20-%20Conditionals)
+04. [Looping](./04%20-%20Looping)
 05. Code challenge combining Looping and branching
+06. Strings
+07. Code challenge
+08. Arrays
+09. Slices
+10. Maps
+12. Functions
+13. Structs
