@@ -81,11 +81,11 @@ Use "go help <topic>" for more information about that topic.
 02. [Variables and assignments](./02%20-%20Variables%20and%20assignments)
 03. [Conditionals](./03%20-%20Conditionals)
 04. [Looping](./04%20-%20Looping)
-05. Code challenge combining Looping and branching
-06. Strings
-07. Code challenge
-08. Arrays
-09. Slices
-10. Maps
-12. Functions
-13. Structs
+05. [Code challenge combining Looping and branching](./05%20-%20Challlenge%20-%20Fizz%20buzz)
+06. [Strings](./06%20-%20Strings)
+07. [Code challenge](./07%20-%20Challenge%20-%20Even-ended-number)
+08. [Arrays](./08%20-%20Arrays)
+09. [Slices](./09%20-%20Slices)
+10. [Maps](./10%20-%20Maps)
+11. [Functions](./11%20-%20Functions)
+12. [Structs](./12%20-%20Structs)
